@@ -5,7 +5,6 @@ export default authMiddleware({
     "/",
     "/api/webhooks/clerk",
     "/api/webhooks/stripe",
-    "/api/webhooks(.*)"
   ],
 });
 
